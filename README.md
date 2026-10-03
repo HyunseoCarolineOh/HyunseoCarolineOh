@@ -20,3 +20,9 @@ I build the tools I wish I had for my own workflow, mostly on AWS, Supabase and 
 ## Links
 
 [Portfolio](https://hyunseo-oh.vercel.app/p/hyunseo) · [LinkedIn](https://www.linkedin.com/in/hyunseo-oh)
+
+## Recent build logs
+
+<!-- recent:start -->
+- 2026-10-03 · [Teaching my weekly Council report from my own feedback](https://github.com/HyunseoCarolineOh/retro-automation-aws/blob/main/docs/devlog/2026-10-03-council-feedback-loop.md) — A feedback file the Lambda reads at run time, a recurrence check, and training rows for a sentence classifier. Prompting first, then real ML.
+<!-- recent:end -->
